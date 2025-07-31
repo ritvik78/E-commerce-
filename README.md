@@ -4,7 +4,7 @@
 
 A modern, responsive e-commerce web app built with clean UI, dynamic product handling, and a smooth shopping experience.
 
-![ecommerce-preview](What_is_E_commerce_and_What_are_its_Applications_2_d2eb0d4402/demo.gif)
+![ecommerce-preview][Hero Banner](https://i.imgur.com/WXqlQKH.png)
 
 ## 🚀 Features
 
