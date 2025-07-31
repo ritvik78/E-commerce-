@@ -4,7 +4,7 @@
 
 A modern, responsive e-commerce web app built with clean UI, dynamic product handling, and a smooth shopping experience.
 
-![ecommerce-preview](https://url=https%3A%2F%2Fadmin.wac.co%2Fuploads%2FWhat_is_E_commerce_and_What_are_its_Applications_2_d2eb0d4402.jpg&w=1080&q=90)/demo.gif)
+![ecommerce-preview](What_is_E_commerce_and_What_are_its_Applications_2_d2eb0d4402/demo.gif)
 
 ## 🚀 Features
 
