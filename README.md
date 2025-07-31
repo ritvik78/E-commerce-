@@ -4,7 +4,7 @@
 
 A modern, responsive e-commerce web app built with clean UI, dynamic product handling, and a smooth shopping experience.
 
-![ecommerce-preview](https://your-image-link.com/demo.gif)
+![ecommerce-preview](https://[your-image-link.com](https://webandcrafts.com/_next/image?url=https%3A%2F%2Fadmin.wac.co%2Fuploads%2FWhat_is_E_commerce_and_What_are_its_Applications_2_d2eb0d4402.jpg&w=1080&q=90)/demo.gif)
 
 ## 🚀 Features
 
@@ -37,7 +37,7 @@ A modern, responsive e-commerce web app built with clean UI, dynamic product han
 ## 📦 Installation
 
 ```bash
-git clone https://github.com/your-username/ecommerce-app.git
+git clone https://github.com/ritvik78/ecommerce-app.git
 cd ecommerce-app
 npm install
 npm start
@@ -45,7 +45,7 @@ npm start
 
 ## 📸 Screenshots
 
-> *(Add images or GIFs showing product list, cart, and mobile responsiveness)*
+> *([Add images or GIFs showing product list, cart, and mobile responsiveness](https://webandcrafts.com/_next/image?url=https%3A%2F%2Fadmin.wac.co%2Fuploads%2FWhat_is_E_commerce_and_What_are_its_Applications_2_d2eb0d4402.jpg&w=1080&q=90))*
 
 ## ✨ Future Enhancements
 
@@ -58,7 +58,7 @@ npm start
 
 ## 📄 License
 
-MIT License © [Your Name](https://github.com/ritvik78)
+MIT License © [Rithik Verma](https://github.com/ritvik78)
 
 ```
 
