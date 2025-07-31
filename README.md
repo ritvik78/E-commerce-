@@ -61,4 +61,14 @@ npm start
 MIT License © [Rithik Verma](https://github.com/ritvik78)
 
 ```
+---
+
+### ✅ Notes:
+- You can replace the image links:
+  - Banner: `https://i.imgur.com/WXqlQKH.png`
+  - GIF: `https://i.imgur.com/Rx5qDdF.gif`
+- Hosting your own screenshots on [Imgur](https://imgur.com/) or using GitHub’s issue upload trick is common practice.
+
+Let me know if you want a **dark theme version**, **Next.js version**, or actual code snippet templates!
+
 
